@@ -1,2 +1,6 @@
 LISTA DE ANIMALES EN LA CASA
 Perro
+Gato
+Tortuga
+Pericos
+Peces
