@@ -9,3 +9,7 @@ ANIMALES QUE TENÍAMOS
 Codorniz
 Conejo
 Gallina
+
+Animales que han fallecido
+Peluche
+Bénjamin
